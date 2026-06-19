@@ -6,7 +6,7 @@ A custom mechanical keyboard built from scratch.
 
 ## Why
 
-To learn PCB design, case modeling, and firmware — and to end up with a keyboard that's truly mine.
+To learn PCB design, case modeling, and firmware and to end up with a keyboard that's truly mine.
 
 ## What I learned
 
