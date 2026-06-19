@@ -1,0 +1,9 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('my-keeb case'),'2;1');
+FILE_NAME('my-keeb-case.step','2026-06-19',('Lorenzo'),(''),'','Onshape','');
+FILE_SCHEMA(('AUTOMOTIVE_DESIGN'));
+ENDSEC;
+DATA;
+ENDSEC;
+END-ISO-10303-21;

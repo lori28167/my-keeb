@@ -1,0 +1,15 @@
+{
+  "board": {
+    "active_layer": 0,
+    "active_layer_preset": ""
+  },
+  "meta": {
+    "filename": "my-keeb.kicad_pro",
+    "version": 1
+  },
+  "schematic": {
+    "meta": {
+      "version": 1
+    }
+  }
+}
