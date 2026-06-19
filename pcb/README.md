@@ -1,6 +1,6 @@
 # PCB Files
 
-Your KiCad project files go here: schematics (`.kicad_sch`), layout (`.kicad_pcb`), and Gerber exports.
+KiCad project for a 98% ISO Italian layout (100 keys). Includes schematics (`.kicad_sch`), layout (`.kicad_pcb`), and Gerber exports.
 
 ## How to export from KiCad
 
